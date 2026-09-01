@@ -1,0 +1,13 @@
+{
+  "name": "toolfit-marketing-sales",
+  "displayName": "Toolfit · Marketing & Sales",
+  "version": "1.1.0",
+  "description": "1 tested skill for Marketing & Sales, with 1 separate connector setup guide.",
+  "author": {
+    "name": "SuperTurbo",
+    "email": "aisuperturbo@gmail.com",
+    "url": "https://toolfit.pro"
+  },
+  "homepage": "https://toolfit.pro",
+  "skills": "./skills/"
+}

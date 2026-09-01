@@ -1,0 +1,105 @@
+{
+  "name": "toolfit-official",
+  "owner": {
+    "name": "SuperTurbo",
+    "email": "aisuperturbo@gmail.com",
+    "url": "https://toolfit.pro"
+  },
+  "metadata": {
+    "description": "Official Toolfit role plugins. Skills install together; connector setup stays in your own account.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "toolfit-owner-management",
+      "source": "./roles/owner-management",
+      "description": "1 tested skill for Founder, with 2 separate connector setup guides.",
+      "category": "productivity",
+      "keywords": [
+        "toolfit",
+        "owner",
+        "management"
+      ],
+      "homepage": "https://toolfit.pro"
+    },
+    {
+      "name": "toolfit-marketing-sales",
+      "source": "./roles/marketing-sales",
+      "description": "1 tested skill for Marketing & Sales, with 1 separate connector setup guide.",
+      "category": "productivity",
+      "keywords": [
+        "toolfit",
+        "marketing",
+        "sales"
+      ],
+      "homepage": "https://toolfit.pro"
+    },
+    {
+      "name": "toolfit-developer",
+      "source": "./roles/developer",
+      "description": "1 tested skill for Developer, with 8 separate connector setup guides.",
+      "category": "productivity",
+      "keywords": [
+        "toolfit",
+        "developer"
+      ],
+      "homepage": "https://toolfit.pro"
+    },
+    {
+      "name": "toolfit-product",
+      "source": "./roles/product",
+      "description": "7 tested skills for Product, with 3 separate connector setup guides.",
+      "category": "productivity",
+      "keywords": [
+        "toolfit",
+        "product"
+      ],
+      "homepage": "https://toolfit.pro"
+    },
+    {
+      "name": "toolfit-finance",
+      "source": "./roles/finance",
+      "description": "1 tested skill for Finance, with 5 separate connector setup guides.",
+      "category": "productivity",
+      "keywords": [
+        "toolfit",
+        "finance"
+      ],
+      "homepage": "https://toolfit.pro"
+    },
+    {
+      "name": "toolfit-operations",
+      "source": "./roles/operations",
+      "description": "1 tested skill for Operations, with 4 separate connector setup guides.",
+      "category": "productivity",
+      "keywords": [
+        "toolfit",
+        "operations"
+      ],
+      "homepage": "https://toolfit.pro"
+    },
+    {
+      "name": "toolfit-recruiter-hr",
+      "source": "./roles/recruiter-hr",
+      "description": "3 tested skills for Recruiter / HR, with 4 separate connector setup guides.",
+      "category": "productivity",
+      "keywords": [
+        "toolfit",
+        "recruiter",
+        "hr"
+      ],
+      "homepage": "https://toolfit.pro"
+    },
+    {
+      "name": "toolfit-academic",
+      "source": "./roles/academic",
+      "description": "6 tested skills for Academic, with 0 separate connector setup guides.",
+      "category": "productivity",
+      "keywords": [
+        "toolfit",
+        "academic"
+      ],
+      "homepage": "https://toolfit.pro"
+    }
+  ]
+}

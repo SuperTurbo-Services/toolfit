@@ -1,0 +1,26 @@
+{
+  "name": "toolfit-developer",
+  "version": "1.1.0",
+  "description": "1 tested skill for Developer, with 8 separate connector setup guides.",
+  "skills": "./skills/",
+  "author": {
+    "name": "SuperTurbo",
+    "email": "aisuperturbo@gmail.com",
+    "url": "https://toolfit.pro"
+  },
+  "homepage": "https://toolfit.pro",
+  "interface": {
+    "displayName": "Toolfit · Developer",
+    "shortDescription": "A tested Developer workflow stack",
+    "longDescription": "1 tested skill for Developer, with 8 separate connector setup guides.",
+    "developerName": "SuperTurbo",
+    "category": "Productivity",
+    "capabilities": [
+      "Role-specific skills",
+      "Connector setup guides"
+    ],
+    "defaultPrompt": "Use my installed Toolfit Developer skills to help with the current task.",
+    "websiteURL": "https://toolfit.pro",
+    "brandColor": "#0f9f67"
+  }
+}

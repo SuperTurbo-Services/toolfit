@@ -1,0 +1,26 @@
+{
+  "name": "toolfit-marketing-sales",
+  "version": "1.1.0",
+  "description": "1 tested skill for Marketing & Sales, with 1 separate connector setup guide.",
+  "skills": "./skills/",
+  "author": {
+    "name": "SuperTurbo",
+    "email": "aisuperturbo@gmail.com",
+    "url": "https://toolfit.pro"
+  },
+  "homepage": "https://toolfit.pro",
+  "interface": {
+    "displayName": "Toolfit · Marketing & Sales",
+    "shortDescription": "A tested Marketing & Sales workflow stack",
+    "longDescription": "1 tested skill for Marketing & Sales, with 1 separate connector setup guide.",
+    "developerName": "SuperTurbo",
+    "category": "Productivity",
+    "capabilities": [
+      "Role-specific skills",
+      "Connector setup guides"
+    ],
+    "defaultPrompt": "Use my installed Toolfit Marketing & Sales skills to help with the current task.",
+    "websiteURL": "https://toolfit.pro",
+    "brandColor": "#0f9f67"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_comment": "Copy this file, fill it in for one project, pass it with --glossary. Every key is optional. All patterns are Python regular expressions applied case insensitively. The values below are synthetic examples, not real corrections.",
+
+  "corrections": {
+    "\\bdeep sea\\b": "DeepSeek",
+    "\\bpost gres\\b": "PostgreSQL",
+    "\\bexample corp\\b": "ExampleCorp",
+    "\\bgonna\\b": "going to",
+    "\\bwanna\\b": "want to"
+  },
+
+  "fillers_multi": [
+    "all right",
+    "so yeah",
+    "let's see",
+    "i guess",
+    "or something"
+  ],
+
+  "_comment_fillers_single": "CAUTION: only list words that are never meaningful in your speech. 'like' looks tempting and is a trap: stripping it turns 'looks like it works' into 'looks it works'. Same for 'right', 'well', 'so' and 'just'. Put those in fillers_multi as a longer phrase instead, for example 'i mean like'.",
+
+  "fillers_single": [
+    "basically",
+    "actually",
+    "yeah"
+  ],
+
+  "grammar": {
+    "\\bhow many cash\\b": "how much cash",
+    "\\bthe the\\b": "the"
+  },
+
+  "protect": [
+    "DeepSeek",
+    "PostgreSQL",
+    "ExampleCorp"
+  ]
+}

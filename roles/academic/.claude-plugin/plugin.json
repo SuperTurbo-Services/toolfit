@@ -1,0 +1,13 @@
+{
+  "name": "toolfit-academic",
+  "displayName": "Toolfit · Academic",
+  "version": "1.1.0",
+  "description": "6 tested skills for Academic, with 0 separate connector setup guides.",
+  "author": {
+    "name": "SuperTurbo",
+    "email": "aisuperturbo@gmail.com",
+    "url": "https://toolfit.pro"
+  },
+  "homepage": "https://toolfit.pro",
+  "skills": "./skills/"
+}
