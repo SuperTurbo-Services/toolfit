@@ -11,6 +11,8 @@ This connector is not carried inside the Toolfit plugin. Add it once in your own
 3. Review the requested permissions before approving access.
 4. Test it on one low-risk folder, workspace, or account before expanding access.
 
+Official setup guide: https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/claude.html
+
 ## First use
 
 Ask your AI app to use Salesforce for one small task related to this workflow: Salesforce's hosted servers, reachable from Claude web, desktop and Code.

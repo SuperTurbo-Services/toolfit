@@ -11,6 +11,8 @@ This connector is not carried inside the Toolfit plugin. Add it once in your own
 3. Review the requested permissions before approving access.
 4. Test it on one low-risk folder, workspace, or account before expanding access.
 
+Official setup guide: https://developers.cloudflare.com/agents/model-context-protocol/mcp-servers-for-cloudflare/
+
 ## First use
 
 Ask your AI app to use Cloudflare for one small task related to this workflow: A catalog of Cloudflare's managed servers, each OAuth secured over HTTP.

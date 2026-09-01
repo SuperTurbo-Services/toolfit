@@ -11,6 +11,8 @@ This connector is not carried inside the Toolfit plugin. Add it once in your own
 3. Review the requested permissions before approving access.
 4. Test it on one low-risk folder, workspace, or account before expanding access.
 
+Official setup guide: https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/
+
 ## First use
 
 Ask your AI app to use Figma for one small task related to this workflow: Pulls design context and code out of Figma Design, FigJam and Make files.

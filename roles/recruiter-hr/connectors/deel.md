@@ -11,6 +11,8 @@ This connector is not carried inside the Toolfit plugin. Add it once in your own
 3. Review the requested permissions before approving access.
 4. Test it on one low-risk folder, workspace, or account before expanding access.
 
+Official setup guide: https://developer.deel.com/mcp/connecting-clients
+
 ## First use
 
 Ask your AI app to use Deel for one small task related to this workflow: The free HRIS: employee records, PTO, org chart and onboarding.

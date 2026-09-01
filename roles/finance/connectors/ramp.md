@@ -11,6 +11,8 @@ This connector is not carried inside the Toolfit plugin. Add it once in your own
 3. Review the requested permissions before approving access.
 4. Test it on one low-risk folder, workspace, or account before expanding access.
 
+Official setup guide: https://agents.ramp.com/docs/mcp/overview
+
 ## First use
 
 Ask your AI app to use Ramp for one small task related to this workflow: Cards, expenses and bill pay — the feed a vendor renewal review reads.

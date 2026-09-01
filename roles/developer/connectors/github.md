@@ -11,6 +11,8 @@ This connector is not carried inside the Toolfit plugin. Add it once in your own
 3. Review the requested permissions before approving access.
 4. Test it on one low-risk folder, workspace, or account before expanding access.
 
+Official setup guide: https://github.com/github/github-mcp-server
+
 ## First use
 
 Ask your AI app to use GitHub for one small task related to this workflow: Repos, issues, pull requests, code search and Actions, under your own permissions.

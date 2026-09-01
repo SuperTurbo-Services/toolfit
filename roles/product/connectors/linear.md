@@ -11,6 +11,8 @@ This connector is not carried inside the Toolfit plugin. Add it once in your own
 3. Review the requested permissions before approving access.
 4. Test it on one low-risk folder, workspace, or account before expanding access.
 
+Official setup guide: https://linear.app/docs/mcp
+
 ## First use
 
 Ask your AI app to use Linear for one small task related to this workflow: Track and deliver, and the source of the backlog a prioritisation pass scores.

@@ -11,6 +11,8 @@ This connector is not carried inside the Toolfit plugin. Add it once in your own
 3. Review the requested permissions before approving access.
 4. Test it on one low-risk folder, workspace, or account before expanding access.
 
+Official setup guide: https://github.com/microsoft/playwright-mcp
+
 ## First use
 
 Ask your AI app to use Playwright for one small task related to this workflow: Runs browser automation and end to end tests.
