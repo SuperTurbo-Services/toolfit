@@ -17,6 +17,21 @@ A paid Claude plan is required. No GitHub account is needed because this reposit
 
 Ask Codex to copy the skill folders from `roles/<role>/skills/` into `~/.agents/skills/`, preserving each folder name.
 
+## Role ZIP downloads
+
+These ZIPs contain the selected role's plugin manifests, skills, connector setup guides, and install README. Give the downloaded ZIP to ChatGPT Desktop or Claude Desktop and ask it to install the included skills.
+
+- [Founder ZIP](https://github.com/SuperTurbo-Services/toolfit/releases/latest/download/toolfit-owner-management.zip)
+- [Marketing & Sales ZIP](https://github.com/SuperTurbo-Services/toolfit/releases/latest/download/toolfit-marketing-sales.zip)
+- [Developer ZIP](https://github.com/SuperTurbo-Services/toolfit/releases/latest/download/toolfit-developer.zip)
+- [Product ZIP](https://github.com/SuperTurbo-Services/toolfit/releases/latest/download/toolfit-product.zip)
+- [Finance ZIP](https://github.com/SuperTurbo-Services/toolfit/releases/latest/download/toolfit-finance.zip)
+- [Operations ZIP](https://github.com/SuperTurbo-Services/toolfit/releases/latest/download/toolfit-operations.zip)
+- [Recruiter / HR ZIP](https://github.com/SuperTurbo-Services/toolfit/releases/latest/download/toolfit-recruiter-hr.zip)
+- [Academic ZIP](https://github.com/SuperTurbo-Services/toolfit/releases/latest/download/toolfit-academic.zip)
+
+Maintainers can rebuild every release asset with `sh scripts/build-role-zips.sh`.
+
 ## Available roles
 
 - [Founder](./roles/owner-management) — `toolfit-owner-management`
